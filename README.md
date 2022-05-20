@@ -11,3 +11,4 @@ __This will also be bold__
 __You *can* combine them__
 
 Test
+delete html
